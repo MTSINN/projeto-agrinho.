@@ -51,8 +51,7 @@
         </div>
 
         <script>
-            // MANDA UMA MENSAGEM PARA O CONSOLE DO DESENVOLVEDOR
-            console.log("O site abriu."); // REGISTRA O LOG DE ABERTURA
+            console.log("O site abriu.");
         </script>
     </body>
 </html>
