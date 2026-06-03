@@ -3,43 +3,37 @@
         <title>Site do Projeto</title>
 
         <style>
-            /* AQUI COMEÇA O CSS PARA DAR COR E TAMANHO */
 
-            /* ESTILO PARA O BLOCO VERDE QUE SEGURA TUDO */
             .bloco1{
-                background-color: #2ecc71; /* DEFINE A COR DE FUNDO COMO VERDE */
-                padding: 20px; /* COLOCA UM ESPAÇO DE 20 PIXELS DENTRO */
-                font-family: sans-serif; /* USA UMA FONTE SEM AQUELAS SERIFAS */
-                text-align: center; /* ALINHA TODO O TEXTO NO MEIO */
-                color: white; /* COLOCA A COR DA LETRA COMO BRANCO */
-            } /* FECHA O ESTILO DO BLOCO 1 */
+                background-color: #2ecc71;
+                padding: 20px;
+                font-family: sans-serif;
+                text-align: center;
+                color: white;
+            }
 
-
-            /* ESTILO PARA A CAIXA QUE FICA NO CENTRO */
             .caixa-meio {
-                border: 2px solid #0e0a0a; /* COLOCA UMA BORDA CINZA DE 2 PIXELS */
-                margin: 20px; /* EMPURRA AS COISAS DE FORA 20 PIXELS */
-                padding: 15px; /* EMPURRA O TEXTO DE DENTRO 15 PIXELS */
-                color: black; /* MUDA A LETRA PARA PRETO PARA LER MELHOR */
-            } /* FECHA O ESTILO DA CAIXA MEIO */
+                border: 2px solid #0e0a0a;
+                margin: 20px;
+                padding: 15px;
+                color: black;
+            } 
 
-            /* ESTILO DO BOTÃO AMARELO */
             #btn1 {
-                background: #d6d0b5; /* COLOCA O FUNDO DO BOTÃO EM AMARELO */
-                border: none; /* TIRA AQUELA BORDA FEIA DO BOTÃO */
-                padding: 10px; /* DEFINE O TAMANHO INTERNO DO BOTÃO */
-                font-weight: bold; /* DEIXA O TEXTO EM NEGRITO */
-                cursor: pointer; /* MOSTRA A MÃOZINHA QUANDO PASSA O MOUSE */
-            } /* FECHA O ESTILO DO BOTÃO */
+                background: #d6d0b5;
+                border: none;
+                padding: 10px;
+                font-weight: bold; 
+                cursor: pointer;
+            }
 
-            /* ESTILO DO TEXTO DO RODAPÉ */
             .texto1 {
-                font-size: 12px; /* DEIXA A LETRA BEM PEQUENININHA */
-                margin-top: 50px; /* EMPURRA O RODAPÉ PARA BAIXO */
-                border-top: 1px solid #000; /* CRIA UMA LINHA PRETA EM CIMA */
-            } /* FECHA O ESTILO DO TEXTO 1 */
+                font-size: 12px; 
+                margin-top: 50px; 
+                border-top: 1px solid #000;
+            }
 
-            /* FIM DA TAG DE ESTILO CSS */
+            
         </style>
     </head>
     <body>
